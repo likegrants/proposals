@@ -1,4 +1,4 @@
-## 1. Name of Project
+## 1. Project Title
     Full name of the project
     
 ## 2. Category 

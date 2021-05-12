@@ -1,16 +1,16 @@
 ## 1. Project Title
-    Full name of the project
+    1-Like Shop
     
 ## 2. Category 
-    Applications, Infrastructures, or Promotions?
+    Application and marketing promotion
     
 ## 3. Name of Applicant
-    Formal or common name of person or team
+    So Yeung
 
 ## 4. Contact Info
-    - GitHub username
-    - Matters username（＠xxxxxx）
-    - LikeCoin wallet / Liker ID
+    - GitHub 
+    - Matters username（＠artlikers）
+    - LikeCoin wallet / Liker ID : artlikers
 
 ## 5. Applicant Introduction
 ```

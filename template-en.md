@@ -79,18 +79,14 @@ Promotion of streaming application: an application is launched to allow use
     ```
 1. Digital media shall be used for the plan including social media, traditional news articles;
 2. The content that created by live stream KOL shall be an important mean of marketing tools too;
-
-
     ```
     
 - Maintenance and Upgrade Plan (Optional, for "Applications" and "Infrastructures" proposals only)
     ```
-    Specify your long-term plans to maintain this software/service and upgrade it over time.
+    NIL
     ```
 
 ## 8. Budget
-
-** NOTE: Every amount of the budegt items should be listed in **LIKE**, not in any fiat money or other cryptos.
 
     The grant can be allocated to cover: 
     

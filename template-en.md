@@ -8,7 +8,7 @@
     So Yeung
 
 ## 4. Contact Info
-    - GitHub 
+    - GitHub : yyleehk
     - Matters username（＠artlikers）
     - LikeCoin wallet / Liker ID : artlikers
 
@@ -23,6 +23,7 @@ Please fill in personal or team information by the following categories:
 - Code repositories (if available)
 
     Provide links to your (team's) prior code repos for similar or related projects.
+    yyleehk/likecoin-
     
 - Relevant Experience
 

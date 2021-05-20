@@ -1,5 +1,5 @@
 ## 1. Project Title
-    1-Like Shop
+    One Like Shop
     
 ## 2. Category 
     Application and marketing promotion
@@ -18,9 +18,9 @@
 Code repository include:
 yyleehk/likecoin-chain
 yyleehk/likecoin-button
-Team members include: yyleehk, zhifeiyu, yeungso, marketing experts who are not technical team
+Team members include: yyleehk, zhifeiyu and yeungso.
 
-Our core team members consists of both technical and marketing experts, we have experience in coding mobile applications, using RESTful API in the mobile applications to allow flexible integration with any other back-end applications.
+Our core team members consists of both technical and marketing background, we have experience in coding mobile applications, using RESTful API in the mobile applications to allow flexible integration with any other back-end applications.
 
 Project accomoplished include:
 Web-base monitoring dashboard for mobile/PC displaying customer service agents availability and customer queuing status;
@@ -41,10 +41,10 @@ Our team may not be extremely strong in technical side, but in the project a wel
  
     ```
   
-    The project is a both a technical and promotion task to promote usage of Like coin:
-    Currently entertainers/presenters of live video streaming shows are controlled by the video platform with high demand of commission fee, control on what the presenters content shall be.  Our project allows live presenters be more independent, and have more options of getting rewarded for their creation and content;  The 1Like shop also have shops that are actually commodity in real life, e.g. coffee, food, we are lining up multiple vendors for such activity, and thus encourage the wide spread usage of like coin in normal life, content writters who has gained like coin can be used for real-life goods and services.
-    With the use of like coin, live streaming entertainers will also help to promote like coin as they shall be actively encourage like coin so that their benefit or income from the audiences can also highly increased.
-    For people who has certain quantity of like coin in their activities of content creation in Matters, or other youtube /blog channel, the like coins on hand can only trade to fiat money in order to use it.  The like coin community shall be a more idealistic model which the like coin owners and community shall be using like coin as currency , this can guide their thought into a way that try not to measure any goods/services in terms of fiat money, but like is the new price list.
+    The project is both a technical and promotion task to promote usage of Like coin:
+    Currently entertainers/presenters of live video streaming shows are controlled by the video platform with high demand of commission fee, control on what the presenters content shall be.  Our project allows live presenters be more independent, and have more options of getting rewarded for their creation and content;  The One Like shop also have shops that are actually commodity in real life, e.g. coffee, food, we are lining up multiple vendors for such activity, and thus encourage the wide spread usage of like coin in normal life, content writers who has gained like coin can use them for consumption of real-life goods and services.
+    With the use of like coin, live streaming entertainers will also help to promote like coin as they shall be actively encourage like coin so that their benefit or income from the audiences can also be increased.
+    For people who has certain quantity of like coin in their activities of content creation in Matters, or other youtube/blog channel, the like coins on hand can only trade to fiat money in order to use it.  The like coin community shall be a more idealistic model which the like coin owners and community shall be using like coin as currency , this can guide their thought into a way that try not to measure any goods/services in terms of fiat money, but like is the new price list.
     With the project, at one side encourage more audience using like coin, also let live stream entertainers be independent of platform control.
 
     ```   
@@ -54,7 +54,7 @@ Our team may not be extremely strong in technical side, but in the project a wel
 1. Promotions include live stream entertainers encouraging the use of like coin;
 2. Promotions for live stream entertainers mention and encourage the use of our live streaming HTML web;
 3. New audience and like coin users will be given a small amount of like coin for the purpose of rewarding entertainers;
-4. Mobile HTML5 code that integrates video streaming live show and Like coin awards to live stream presenters;
+4. Mobile HTML5 code that integrates video streaming live show and Like coin tips to live stream presenters;
 5. Promotion will be given to offline vendors who provide products/service using like coin;
 6. Contents including video and reports for the promotion program and the application;
    ``` 
@@ -96,9 +96,11 @@ Promotion of streaming application: an application is launched to allow use
     
     You are strongly encouraged to break down the amounts of funding required by the shcedule or milestones listed above. Besides, sum up the total requested budget across all items or all milestones, and include that figure here. A clear budget table or chart will be very appreciated.
 
-
-
-
+    Tranches of payment
+    
+    1st tranche: 200K upon the kick off of development
+    2nd tranche: 200K upon the launch of the trial version of web-based application
+    3rd tranche: 200K upon 500 users registered our application have their likerid set up.
 
 
 

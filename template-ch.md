@@ -59,6 +59,7 @@
 
 ##### 運營工作
 * 靈活應對 LikerSocial 用戶之問題
+* Account: https://liker.social/web/accounts/106282397367132067
 
 
 ## 8. 預算表

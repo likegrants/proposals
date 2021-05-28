@@ -67,7 +67,7 @@
 > 本計畫資助金可用於： 
     
 * 人事支出
-    * Guanyun 121201 Like 
+    * Guanyun 165282 (19 days labour) Like 
     * Elio 183241 (15270 / Month) Like
 * 運營和維護支出
     * 2943 Like / Month (Server host)

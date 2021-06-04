@@ -74,12 +74,12 @@
     本計畫資助金可用於： 
     
     (1) 人事支出; 
-      * Guanyun 165282 (19 days labour) Like
-      * Elio 183241 (15270 / Month) Like
+      * Guanyun 3372 USD (19 days labour) 
+      * Elio 3768 USD (314 USD / Month)
     (2) 運營和維護支出： 暫無
     (3) 宣傳推廣支出：暫無
         
-    總額：165282 + 183241 = 348523 Like
+    總額：3372 + 3768 = 7140 USD
 
 
 

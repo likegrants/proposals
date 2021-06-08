@@ -25,3 +25,5 @@
 ### 7. Budget
 
     The total amount of LIKE (or the equivelant amount of USD) you would like to apply.
+    
+    Feel free to break down the budget and list each item you would like to use the funding. It would be very appreciated.

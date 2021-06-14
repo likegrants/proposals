@@ -78,7 +78,13 @@ Promotion of streaming application: an application is launched to allow use
 - Landing, Promotion or Diffusion Plan
     ```
 1. Digital media shall be used for the plan including social media, traditional news articles;
-2. The content that created by live stream KOL shall be an important mean of marketing tools too;
+2. Invite relevant KOL for attracting their fans to registration of Like Coin wallets:
+    - Types of KOL channels: 
+	- Music / performance : current 20K subscribers, program viewers 10K~20K
+    - Finance analyst: current 30K subscribers, program viewers 30K~35K
+	- House racing: current 5-10K subscribers, program viewers ~5K
+	- Pet: current 5-10K subscribers, program viewers ~5K
+ 
     ```
     
 - Maintenance and Upgrade Plan (Optional, for "Applications" and "Infrastructures" proposals only)
@@ -98,9 +104,32 @@ Promotion of streaming application: an application is launched to allow use
 
     Tranches of payment
     
-    1st tranche: 200K upon the kick off of development
-    2nd tranche: 200K upon the launch of the trial version of web-based application
-    3rd tranche: 200K upon 500 users registered our application have their likerid set up.
+    1st tranche: 100K, proof of concept for web application focus for mobile Chrome
+	    - Primary functions: embedded live video, sign up function, award and like function
+		- Compatible with Chrome only
+		- Desktop based web application not required
+		- Launch to test for specific users
+		
+	2nd tranche: 100K, Pilot run for web application
+	    - Basic functions equipped: embedded live video, sign up function, aware and like function
+		- Compatible with Safari
+        - Performer side gift design, viewer side gift shop
+		
+    3rd tranche: 50K, soft launch for all performance and viewer, KOL signed up
+        - Full function release: 
+		- Compatibility with PC Chrome
+		
+    4th tranche: 150K, KOL channels starting to advertise Like Coin Wallet and use of Like Coin
+	    - Defined and advertised the Like coin give-away for viewers
+		- Increasing number of new Like Coin wallets
+		
+	5th tranche: 100K, online advertisement program starting
+	    - Various channels of social media starting for advertisement drive
+		- Number of target audiences measured
+		
+	6th tranche: 100K, Registered users in One Like Show reached 500 accounts
+	    - Achieve the purpose of new Like coin signups
+		- Measure the total transactions of Like coin 
 
 
 

@@ -97,7 +97,7 @@
     Tranches of payment:
     	
 	1st tranche: 100K, proof of concept for web application focus for mobile Chrome
-    		- Primary functions: embedded live video, sign up function, award and like function
+		- Primary functions: embedded live video, sign up function, award and like function
 		- Compatible with Chrome only
 		- Desktop based web application not required
 		- Launch to test for specific users
@@ -108,11 +108,11 @@
 		- Performer side gift design, viewer side gift shop
 		
 	3rd tranche: 50K, soft launch for all performance and viewer, KOL signed up
-    		- Full function release: 
+		- Full function release: 
 		- Compatibility with PC Chrome
 		
 	4th tranche: 150K, KOL channels starting to advertise Like Coin Wallet and use of Like Coin
-    		- Defined and advertised the Like coin give-away for viewers
+		- Defined and advertised the Like coin give-away for viewers
 		- Increasing number of new Like Coin wallets
 		
 	5th tranche: 100K, online advertisement program starting

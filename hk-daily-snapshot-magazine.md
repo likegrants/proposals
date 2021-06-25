@@ -61,17 +61,8 @@ We are an anon team of experience software engineers in Hong Kong, recently we s
 - Schedule: Operation or Development Roadmap
 
     ```
-    **Phase 1(3 months)**:
-    	- Build instagram-like app for iOS and photos will be uploaded on ISCN
-    	- Be Likechain validator
-    **Phase 2(2-3 months)**: 
-    	- Form a DAO, make use of [Snapshot](https://snapshot.org/#/) to empower our stakeholders to be our daily magazine curator with their vote powser
-      - Build Snapshot customized voting power mechanism
-    	- Create social media accounts
-      - Build landing page
-    **Phase 3:**
-      - Go to market
-      - Marketing and promotions
+    **IOS App development(3 months)**:
+        - Build instagram-like app for iOS and photos will be uploaded on ISCN
     ```
 
 - Landing, Promotion or Diffusion Plan

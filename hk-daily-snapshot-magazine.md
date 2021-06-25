@@ -46,23 +46,14 @@ We are an anon team of experience software engineers in Hong Kong, recently we s
 - Deliverable(s)
 
     ```
-    **1. IOS app:**
+    **IOS app:**
       - Sign up / Login with AuthCore
     	- User able to take a photo
     	- Get metadata from the photo such as location, date time, resolution
       - User able to add a caption
       - Upload and publish the photo and metadata on ISCN
       - User able to like a photo(perhaps needs a centrized infrastructure for storing the data)
-      - 
-    **2. Build a DAO:**
-      - Be Likechain validator, and the reward will be the treasury of this project
-      - Give incentive(Likecoin from treasury) to people who uploaded photo, if their photo become the photo of day in magazine
-      - Give incentive(Likecoin from treasury) to stakeholder, if the photo they liked become the photo of day in magazine
-      - Create a Forum and Discord
-      - Create a offical Facebook and Instagram account
-      - Customize [Snapshot](https://snapshot.org/#/) voting power mechanism 
-      - Modartor create a daily curation proposel on [Snapshot](https://snapshot.org/#/)
-      - Create a landing page
+
     ```
 
 ## 7. Work Plan
@@ -105,22 +96,6 @@ We are an anon team of experience software engineers in Hong Kong, recently we s
 - * NOTE: Every amount of the budget items should be listed in **LIKE**, not in any fiat money or other cryptos.
 
 ```
-**For dev team:**
-* 3 team members
-* 2 phases, 3 months per phase = 6 months
-* 200,000LIKE per head
-**= 3,600,000LIKE
-
-Operation & maintenance expenses:
-*** Domain = **5000LIKE
-*** Community manager = **150,000LIKE
-*** Admin = **150,000LIKE
-= 305,000LIKE**
-
-**Promotion expenses**
-* Marketer = **150,000LIKE
-*** Incentive for user upload photo **500,000LIKE
-= 650,000LIKE
-
-Total: 4,555,000**
+**For development:**
+600,000LIKE
 ```

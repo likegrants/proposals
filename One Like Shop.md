@@ -41,7 +41,9 @@
     The big picture of the project is to develop an application to provide an independent means of rewarding live stream performers from the audience/viewers, KOL in Youtube live can perform and receive rewards using Like Coin environment. 
     Currently entertainers/presenters of live video streaming shows are controlled by the video platform with high demand of commission fee, control on what the presenters content shall be.  Our project allows live presenters be more independent, and have more options of getting rewarded for their creation and content.
     With the use of like coin, live streaming entertainers will also help to promote like coin as they shall be actively encourage like coin so that their benefit or income from the audiences can also be increased.
-    Current MVP part of project is a POC for the following function:
+    The current POC is mainly for mobile HTML application because this type of entertainment are mainly for audiences who views the live performance on mobile phones or tablet devices when the audiences are on bus/dining/leisure at home, restaurant or other places.  Future application may include other device support, streaming media support.
+
+    Current project is an MVP which is a POC for the following function:
     1. Embedded Youtube live in our One Like Shop mobile application;
     2. viewer can send digital "gifts" to Live performer;
     3. Live performer can view the list the gifts received;
